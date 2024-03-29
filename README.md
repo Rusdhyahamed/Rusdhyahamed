@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Rusdhy ahamed
-- 👀 I’m interested in C# , Javascript, HTML, CSS
-- 🌱 I’m currently learning React, Python
+- 👋 Hi, I’m Rusdhy Ahamed
+- 👀 I’m interested in C# , Javascript, HTML, CSS, JAVA
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
